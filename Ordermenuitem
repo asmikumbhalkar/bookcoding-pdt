@@ -1,0 +1,11 @@
+public class Ordermenuitem
+{
+	int id;
+	int OrderId;
+	String menuName;
+	String menuCategory;
+	double amount;
+	boolean isveg;
+}
+		
+	   
